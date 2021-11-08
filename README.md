@@ -13,6 +13,7 @@
 
 ### Refactored code performance
 - Runtime between 0.633 to 0.635 seconds
+
 ![2017](https://github.com/srfassihi/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 ![2018](https://github.com/srfassihi/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
