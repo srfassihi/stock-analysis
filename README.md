@@ -7,15 +7,20 @@
 - Refactor existing code to run faster than the original script
 
 ## Results
+
 ### Original 'green_stocks' performance
 - Runtime between 0.591 to 0.649 seconds
 
 ### Refactored code performance
 - Runtime between 0.633 to 0.635 seconds
+![2017](https://github.com/srfassihi/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
-### Challenges and Difficulties Encountered
-- Raw data for date values not in a format that Excel can understand for charting
-- Must use conditional counts to calculate the outcomes for each binned goal amount
+![2018](https://github.com/srfassihi/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
+### Outputs
+![2017 Stock Analysis](https://github.com/srfassihi/stock-analysis/blob/main/Resources/2017%20Stocks.png)
+
+![2018 Stock Analysis](https://github.com/srfassihi/stock-analysis/blob/main/Resources/2018%20Stocks.png)
 
 ## Conclusions
 ### Advantages of Refactoring
